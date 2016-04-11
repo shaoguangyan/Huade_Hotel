@@ -1,0 +1,2 @@
+C:\Users\sgy\AppData\Local\Temporary Projects\HuadeHotel\bin\Debug\HuadeHotel.exe.config
+D:\文档\Visual Studio 2013\Projects\Huade-Hotel\HuadeHotel\HuadeHotel\bin\Debug\HuadeHotel.exe.config
